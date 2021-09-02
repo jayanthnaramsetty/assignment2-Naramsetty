@@ -2,6 +2,6 @@
 
 # Jayanth Naramsetty
 
-#### My favorite location in the world is Maldives
+##### My favorite location in the world is Maldives
 
-#### The Maldives is an island country known for its **rich water estate**. A tropical asylum of white sand sea shores, the **Maldives is situated in the Indian Ocean south of Sri Lanka** and is great water adventure , honeymoon, or leisure holiday.
+The Maldives is an island country known for its **rich water estate**. A tropical asylum of white sand sea shores, the **Maldives is situated in the Indian Ocean south of Sri Lanka** and is great water adventure , honeymoon, or leisure holiday.
