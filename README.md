@@ -17,10 +17,10 @@ The Maldives is an island country known for its **rich water estate**. A tropica
 
 
 - Beach shirts
-- Shampoo
 - All currency credit card
 - Dslr camera
     - Long lens
     - Short lens
 - Sunscreen lotion
- 
+- Beach vollyball
+- Shades
