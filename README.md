@@ -9,3 +9,8 @@ The Maldives is an island country known for its **rich water estate**. A tropica
 ***
 
 # Directions From Maryville To Maldives
+
+1. Take a cab from Maryville to kansas airport
+2. From kansas airport take a flight to Dallas airport
+3. Take a direct flight From Dallas to Male [capital city of maldives]
+    1. When you landed in male you will be through ship to you destinations resorts or island which ever we booked
