@@ -60,10 +60,8 @@ Below table contains the food items with their mentioned with their prices  and 
 
 [Click](https://cp-algorithms.com/linear_algebra/rank-matrix.html)
 
-[Click](https://cp-algorithms.com/linear_algebra/rank-matrix.html)
 
-const double EPS = 1E-9;  
-  
+const double EPS = 1E-9;   
 int compute_rank(vector<vector<double>> A) {  
     int n = A.size();  
     int m = A[0].size();  
@@ -92,3 +90,5 @@ int compute_rank(vector<vector<double>> A) {
     }  
     return rank;  
 }  
+
+[Click](https://cp-algorithms.com/linear_algebra/rank-matrix.html)
