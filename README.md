@@ -24,3 +24,7 @@ The Maldives is an island country known for its **rich water estate**. A tropica
 - Sunscreen lotion
 - Beach vollyball
 - Shades
+
+![USA FLAG](images/usaflag.png)
+
+[Link AboutMe](https://github.com/jayanthnaramsetty/assignment2-Naramsetty/blob/07d40a1da4b5a801ae63de973935fde861f9005b/AboutMe.md)
