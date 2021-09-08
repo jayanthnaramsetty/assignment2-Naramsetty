@@ -31,7 +31,7 @@ The Maldives is an island country known for its **rich water estate**. A tropica
 
 ***
 
-# recommendations
+## recommendations
 
 Below table contains the food items with their mentioned with their prices  and avalible location.
 
@@ -41,3 +41,13 @@ Below table contains the food items with their mentioned with their prices  and 
 | Bis keemiya | Biyadhoo Island | $ 25 |
 | Garudhiya | Fihalhohi Island | $ 30 |
 | Huni roshi | Vaadhoo Island | $20|
+
+***
+
+## Pithy Quotes
+
+> "I don’t need it to be easy, I need it to be worth it."  *Lil Wayne*
+
+> "The time is always right to do what is right." *Martin Luther King Jr*
+
+> "When words fail, music speaks."  *Shakespeare*
