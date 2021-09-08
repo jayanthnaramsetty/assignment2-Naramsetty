@@ -31,4 +31,9 @@ The Maldives is an island country known for its **rich water estate**. A tropica
 
 ***
 
-recommendations
+# recommendations
+
+Below table contains the food items with their mentioned with their prices  and avalible location.
+
+| ### Food Items | ### Location | ### Price | 
+
