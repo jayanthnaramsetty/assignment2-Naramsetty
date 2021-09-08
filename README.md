@@ -58,7 +58,7 @@ Below table contains the food items with their mentioned with their prices  and 
 
 > The rank of a matrix is the largest number of linearly independent rows/columns of the matrix. The rank is not only defined for square matrices. The rank of a matrix can also be defined as the largest order of any non-zero minor in the matrix.
 
-[Click](https://cp-algorithms.com/linear_algebra/rank-matrix.html)
+[ Source Click](https://cp-algorithms.com/linear_algebra/rank-matrix.html)
 
 
 const double EPS = 1E-9;   
@@ -91,4 +91,4 @@ int compute_rank(vector<vector<double>> A) {
     return rank;  
 }  
 
-[Click](https://cp-algorithms.com/linear_algebra/rank-matrix.html)
+[Source Link](https://cp-algorithms.com/linear_algebra/rank-matrix.html)
