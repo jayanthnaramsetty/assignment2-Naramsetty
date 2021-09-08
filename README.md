@@ -40,4 +40,4 @@ Below table contains the food items with their mentioned with their prices  and 
 | Tuna Fry | Male Island | $ 15  |
 | Bis keemiya | Biyadhoo Island | $ 25 |
 | Garudhiya | Fihalhohi Island | $ 30 |
-| Huni roshi | Huni roshi | $20|
+| Huni roshi | Vaadhoo Island | $20|
