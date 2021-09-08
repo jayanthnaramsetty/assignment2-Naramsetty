@@ -61,10 +61,10 @@ Below table contains the food items with their mentioned with their prices  and 
 [ Source Click](https://cp-algorithms.com/linear_algebra/rank-matrix.html)
 
 
-const double EPS = 1E-9;   
-int compute_rank(vector<vector<double>> A) {  
-    int n = A.size();  
-    int m = A[0].size();  
+const double EPS = 1E-9;     
+int compute_rank(vector<vector<double>> A) {    
+    int n = A.size();    
+    int m = A[0].size();    
   
     int rank = 0;  
     vector<bool> row_selected(n, false);  
@@ -88,7 +88,7 @@ int compute_rank(vector<vector<double>> A) {
             }  
         }  
     }  
-    return rank;  
-}  
+    return rank;
+}     
 
 [Source Link](https://cp-algorithms.com/linear_algebra/rank-matrix.html)
