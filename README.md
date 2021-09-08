@@ -37,4 +37,7 @@ Below table contains the food items with their mentioned with their prices  and 
 
 | Food Items | Location | Price | 
 | :---: | :---: | :---: | 
-| Tuna | Male Island | 15 $ |
+| Tuna Fry | Male Island | $ 15  |
+| Bis keemiya | Biyadhoo Island | $ 25 |
+| Garudhiya | Fihalhohi Island | $ 30 |
+| Huni roshi | Huni roshi | $20|
