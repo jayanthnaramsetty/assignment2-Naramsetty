@@ -4,5 +4,5 @@ My name is Jayanth Naramsetty. I completed my under graduation from KL Universit
 
 My Hobbies are Photography and Travelling
 
-![USA FLAG](images/usaflag.png)
+[USA FLAG](images/usaflag.png)
 
